@@ -1,0 +1,248 @@
+[
+    {
+        "student_id": "67100313",
+        "firstname": "ชำชุดดีน",
+        "lastname": "ยีหะมะ",
+        "nickname": "ดีน"
+    },
+    {
+        "student_id": "67100511",
+        "firstname": "ทรัพย์กีร์",
+        "lastname": "อาบู",
+        "nickname": "กี้"
+    },
+    {
+        "student_id": "67100552",
+        "firstname": "ธนภรณ์",
+        "lastname": "ไกรเทพ",
+        "nickname": "แตงกวา"
+    },
+    {
+        "student_id": "67100784",
+        "firstname": "บัญญพนต์",
+        "lastname": "ไชยทอง",
+        "nickname": "บัญ"
+    },
+    {
+        "student_id": "67101113",
+        "firstname": "เพาซัน",
+        "lastname": "สาเมาะ",
+        "nickname": "ชัน"
+    },
+    {
+        "student_id": "67101337",
+        "firstname": "วีระพัฒน์",
+        "lastname": "ติยะพันธุ์",
+        "nickname": "พลัม"
+    },
+    {
+        "student_id": "67102335",
+        "firstname": "คณาธิป",
+        "lastname": "กัญจนกาญจน์",
+        "nickname": "โจ๊ก"
+    },
+    {
+        "student_id": "67103606",
+        "firstname": "ณัฐดนัย",
+        "lastname": "คงแก้ว",
+        "nickname": "ปาล์ม"
+    },
+    {
+        "student_id": "67103739",
+        "firstname": "ณัฐภัทร",
+        "lastname": "เมืองพรหม",
+        "nickname": "อาม"
+    },
+    {
+        "student_id": "67104190",
+        "firstname": "ธนันญา",
+        "lastname": "เซ่งนาค",
+        "nickname": "ฝ้าย"
+    },
+    {
+        "student_id": "67104885",
+        "firstname": "บาซิล",
+        "lastname": "มัชฉากิจ",
+        "nickname": "ซิล"
+    },
+    {
+        "student_id": "67105098",
+        "firstname": "ปราโมทย์",
+        "lastname": "คชาวรรณ",
+        "nickname": "แบงค์"
+    },
+    {
+        "student_id": "67106336",
+        "firstname": "ภูมิพัฒน์",
+        "lastname": "เมืองจันทร์",
+        "nickname": "ภูมิ"
+    },
+    {
+        "student_id": "67107680",
+        "firstname": "ศิวัช",
+        "lastname": "นาคงาม",
+        "nickname": "ต๊ะ"
+    },
+    {
+        "student_id": "67108522",
+        "firstname": "อนัญญา",
+        "lastname": "อินทมาส",
+        "nickname": "แนน"
+    },
+    {
+        "student_id": "67109363",
+        "firstname": "คุณภคิน",
+        "lastname": "กิจวิเศษ",
+        "nickname": "คุณ"
+    },
+    {
+        "student_id": "67109397",
+        "firstname": "จตุรวิทย์",
+        "lastname": "ยิ่งยวด",
+        "nickname": "ก้อง"
+    },
+    {
+        "student_id": "67110197",
+        "firstname": "ธีรภัทร",
+        "lastname": "รอดสง",
+        "nickname": "โอม"
+    },
+    {
+        "student_id": "67110213",
+        "firstname": "นนทพัทธ์",
+        "lastname": "เสวาฤทธิ์",
+        "nickname": "นนท์"
+    },
+    {
+        "student_id": "67110569",
+        "firstname": "ปกรณ์",
+        "lastname": "จิรธนานุรักษ์",
+        "nickname": "ที"
+    },
+    {
+        "student_id": "67112581",
+        "firstname": "ฐิตินันท์",
+        "lastname": "จันทร์พร้อย",
+        "nickname": "ปูเป้"
+    },
+    {
+        "student_id": "67113068",
+        "firstname": "นฐิสา",
+        "lastname": "เรืองรอง",
+        "nickname": "ย๊ະ"
+    },
+    {
+        "student_id": "67114090",
+        "firstname": "สมศักดิ์",
+        "lastname": "ฟองพิทักษ์",
+        "nickname": "กี่"
+    },
+    {
+        "student_id": "67115873",
+        "firstname": "อนุสรณ์",
+        "lastname": "สมาน",
+        "nickname": "ฮานีน"
+    },
+    {
+        "student_id": "67116228",
+        "firstname": "ชนินทร",
+        "lastname": "เพ็งจิตร",
+        "nickname": "ซี"
+    },
+    {
+        "student_id": "67116806",
+        "firstname": "กลวัชร",
+        "lastname": "อินทร์แก้ว",
+        "nickname": "เครป"
+    },
+    {
+        "student_id": "67117358",
+        "firstname": "ซาฟารีฟ",
+        "lastname": "ตาหา",
+        "nickname": "รีฟ"
+    },
+    {
+        "student_id": "67117812",
+        "firstname": "วิมลสิริ",
+        "lastname": "คงเจริญ",
+        "nickname": "ยืน"
+    },
+    {
+        "student_id": "67118547",
+        "firstname": "ยศกร",
+        "lastname": "เมืองเดิม",
+        "nickname": "ฟา"
+    },
+    {
+        "student_id": "67120600",
+        "firstname": "ธนภัทร์",
+        "lastname": "จำเริญ",
+        "nickname": "ฟิมล์"
+    },
+    {
+        "student_id": "67120733",
+        "firstname": "เฟื่องฟู",
+        "lastname": "จูประจบ",
+        "nickname": "ทอย"
+    },
+    {
+        "student_id": "67121343",
+        "firstname": "ศรัณย์พร",
+        "lastname": "ขำเจริญ",
+        "nickname": "นุช"
+    },
+    {
+        "student_id": "67123612",
+        "firstname": "ธนากร",
+        "lastname": "สายลำเพาะ",
+        "nickname": "โดม"
+    },
+    {
+        "student_id": "67124461",
+        "firstname": "ทัศนสิทธิ์",
+        "lastname": "เจริญธรรมรักษ์",
+        "nickname": "ทัพ"
+    },
+    {
+        "student_id": "67128033",
+        "firstname": "พงศกร",
+        "lastname": "คงนิ่ม",
+        "nickname": "วาริด"
+    },
+    {
+        "student_id": "67128553",
+        "firstname": "ภาคิน",
+        "lastname": "รัตนุศักดิ์",
+        "nickname": "โอ๊ด"
+    },
+    {
+        "student_id": "67129007",
+        "firstname": "สิรวิชญ์",
+        "lastname": "เพชรจำรัส",
+        "nickname": "มาร์ค"
+    },
+    {
+        "student_id": "67130815",
+        "firstname": "กรวิชญ์",
+        "lastname": "ตรีประพิณ",
+        "nickname": "กร"
+    },
+    {
+        "student_id": "67133520",
+        "firstname": "แวอัซมะห์",
+        "lastname": "แวมูดอ",
+        "nickname": "แว"
+    },
+    {
+        "student_id": "67137299",
+        "firstname": "เจตนิพัทธ์",
+        "lastname": "มหาสุข",
+        "nickname": "โฟโด้"
+    },
+    {
+        "student_id": "67137315",
+        "firstname": "สุรสิทธิ์",
+        "lastname": "ชูบัวทอง",
+        "nickname": "เด่น"
+    }
+]

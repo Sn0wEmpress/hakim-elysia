@@ -28,4 +28,5 @@ bun run dev
 Open http://localhost:3000/ with your browser to see the result.
 
 ## Members
-- Weerapat Tiyaphun
+- นายวีระพัฒน์ ติยะพันธุ์ 67101337
+- นายคุณภคิน กิจวิเศษ 67109363
