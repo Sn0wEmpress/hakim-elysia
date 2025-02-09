@@ -2,8 +2,8 @@ import { Elysia } from "elysia";
 import { MongoClient, ObjectId, ServerApiVersion } from "mongodb";
 
 // MongoDB Atlas connection
-const uri = "mongodb+srv://plumkungzaza:C6OmzXYqoG2sxLdB@cluster0.iwrah.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
-const client = new MongoClient(uri, {
+const uri = process.env.MONGODB_URI;
+const client = new MongoClient(uri!, {
     serverApi: {
         version: ServerApiVersion.v1,
         strict: true,
