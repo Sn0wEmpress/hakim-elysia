@@ -20,8 +20,8 @@ bun install
 ```
 
 3. Set up environment variables:
-3.1 Rename .env.example to .env
-3.2 Open the .env file and replace the placeholders with your MongoDB connection details:
+   1. Rename .env.example to .env
+   2. Open the .env file and replace the placeholders with your MongoDB connection details:
 MONGODB_URI="mongodb+srv://<username>:<password>@<cluster>.mongodb.net/?retryWrites=true&w=majority&appName=<appname>"
 
 ## Development
