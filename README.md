@@ -18,14 +18,13 @@ Before you begin, ensure that you have the following installed:
 git clone https://github.com/Sn0wEmpress/hakim-elysia.git
 ```bash
 git clone https://github.com/Sn0wEmpress/hakim-elysia.git
-cd hakim-elysia
 ```
-2. Install dependencies using Bun:
+2. Install dependencies using Bun (both client and server):
 ```bash
 bun install
 ```
 
-3. Set up environment variables (server):
+3. Set up environment variables (server only):
    1. Rename .env.example to .env
    2. Open the .env file and replace the placeholders with your MongoDB connection details:
 MONGODB_URI="mongodb+srv://<username>:<password>@<cluster>.mongodb.net/?retryWrites=true&w=majority&appName=<appname>"
