@@ -7,6 +7,12 @@ A simple and efficient REST API template designed for managing student records. 
 - 📦 Environment variable support via dotenv
 - 📜 API validation with TypeScript
 
+## Prerequisites
+Before you begin, ensure that you have the following installed:
+
+- Bun
+- MongoDB account and connection URI
+
 ## How to install
 1. Clone the project:
 git clone https://github.com/Sn0wEmpress/hakim-elysia.git
@@ -19,7 +25,7 @@ cd hakim-elysia
 bun install
 ```
 
-3. Set up environment variables:
+3. Set up environment variables (server):
    1. Rename .env.example to .env
    2. Open the .env file and replace the placeholders with your MongoDB connection details:
 MONGODB_URI="mongodb+srv://<username>:<password>@<cluster>.mongodb.net/?retryWrites=true&w=majority&appName=<appname>"
