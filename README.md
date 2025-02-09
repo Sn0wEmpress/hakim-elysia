@@ -1,5 +1,5 @@
-# Elysia.js + MongoDB
-A lightweight REST API boilerplate using Elysia.js and MongoDB.
+# Basic Student CRUD with Elysia.js + MongoDB
+A simple and efficient REST API template designed for managing student records. This boilerplate leverages Elysia.js for building the API and MongoDB for data storage, providing a lightweight, fast solution for performing basic CRUD (Create, Read, Update, Delete) operations on student data. Ideal for quick setups, prototyping, or learning how to integrate MongoDB with modern web frameworks like Elysia.js.
 
 ## Features
 - 🚀 Superfast server with Elysia.js
