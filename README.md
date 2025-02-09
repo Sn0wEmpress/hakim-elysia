@@ -1,9 +1,22 @@
-# Elysia with Bun runtime
+# Elysia.js + MongoDB
+A lightweight REST API boilerplate using Elysia.js and MongoDB.
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
+## Features
+- 🚀 Superfast server with Elysia.js
+- 🗄️ MongoDB integration via MongoClient
+- 📦 Environment variable support via dotenv
+- 📜 API validation with TypeScript
+
+## How to install
+1. Clone my project
+git clone https://github.com/Sn0wEmpress/hakim-elysia.git
 ```bash
-bun create elysia ./elysia-example
+git clone https://github.com/Sn0wEmpress/hakim-elysia.git
+cd hakim-elysia
+```
+2. Install node modules using bun
+```bash
+bun install
 ```
 
 ## Development
