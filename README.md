@@ -8,16 +8,21 @@ A lightweight REST API boilerplate using Elysia.js and MongoDB.
 - 📜 API validation with TypeScript
 
 ## How to install
-1. Clone my project
+1. Clone the project:
 git clone https://github.com/Sn0wEmpress/hakim-elysia.git
 ```bash
 git clone https://github.com/Sn0wEmpress/hakim-elysia.git
 cd hakim-elysia
 ```
-2. Install node modules using bun
+2. Install dependencies using Bun:
 ```bash
 bun install
 ```
+
+3. Set up environment variables:
+3.1 Rename .env.example to .env
+3.2 Open the .env file and replace the placeholders with your MongoDB connection details:
+MONGODB_URI="mongodb+srv://<username>:<password>@<cluster>.mongodb.net/?retryWrites=true&w=majority&appName=<appname>"
 
 ## Development
 To start the development server run:
