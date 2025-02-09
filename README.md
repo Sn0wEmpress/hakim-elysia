@@ -38,6 +38,6 @@ bun run dev
 
 Open http://localhost:3000/ with your browser to see the result.
 
-## Members
-- นายวีระพัฒน์ ติยะพันธุ์ 67101337
-- นายคุณภคิน กิจวิเศษ 67109363
+## Authors
+- นายวีระพัฒน์ ติยะพันธุ์ 67101337 (Do everything)
+- นายคุณภคิน กิจวิเศษ 67109363 (Buy chatgpt pro)
