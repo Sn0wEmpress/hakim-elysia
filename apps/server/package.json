@@ -1,5 +1,7 @@
 {
-  "name": "app",
+  "name": "@hakim/server",
+  "description": "Elysia.js backend",
+  "private": true,
   "version": "1.0.50",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
