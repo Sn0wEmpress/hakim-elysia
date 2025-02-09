@@ -31,12 +31,10 @@ bun install
 MONGODB_URI="mongodb+srv://<username>:<password>@<cluster>.mongodb.net/?retryWrites=true&w=majority&appName=<appname>"
 
 ## Development
-To start the development server run:
+To start the development both client and server run:
 ```bash
 bun run dev
 ```
-
-Open http://localhost:3000/ with your browser to see the result.
 
 ## Authors
 - นายวีระพัฒน์ ติยะพันธุ์ 67101337 (Do everything)
