@@ -4,12 +4,6 @@ import { motion, AnimatePresence } from 'framer-motion'
 import { Search, UserPlus, Edit2, Trash2, X, Save, Plus, School2, ChevronLeft, ChevronRight } from 'lucide-react'
 import Swal from 'sweetalert2'
 
-declare global {
-    interface Window {
-        searchTimeout: number | undefined;
-    }
-}
-
 interface Student {
     _id?: string
     student_id: string
