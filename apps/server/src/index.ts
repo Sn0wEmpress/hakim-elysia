@@ -12,8 +12,8 @@ const client = new MongoClient(uri!, {
     }
 });
 
-const db = client.db("students");
-const students = db.collection("students");
+const db = client.db("students"); // Change to your database name
+const students = db.collection("students"); // Change to your collection name
 
 // Create indexes
 async function createIndexes() {
