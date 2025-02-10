@@ -5,7 +5,6 @@ A full-stack application for managing student records. The project uses a monore
 - 🚀 Superfast server with Elysia.js
 - ⚛️ Modern React frontend with Tailwind CSS
 - 🗄️ MongoDB integration via MongoClient
-- 📦 Environment variable support via dotenv
 - 📜 Full TypeScript support
 - 🏗️ Monorepo structure for better code organization
 
