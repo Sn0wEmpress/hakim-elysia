@@ -62,6 +62,8 @@ function App() {
         nickname: ''
     })
     
+    const url = 'http://localhost:3000'
+    
     const debouncedSearchText = useDebounce(searchText, 500) // 500ms delay
     const fetchStudents = useCallback(async () => {
         setIsLoading(true)
@@ -70,11 +72,11 @@ function App() {
             if (debouncedSearchText.trim()) {
                 const encodedSearchText = encodeURIComponent(debouncedSearchText.trim());
                 response = await axios.get(
-                    `http://localhost:3000/students/search/${encodedSearchText}?page=${pagination.page}&limit=${pagination.limit}`
+                    `${url}/students/search/${encodedSearchText}?page=${pagination.page}&limit=${pagination.limit}`
                 );
             } else {
                 response = await axios.get(
-                    `http://localhost:3000/students?page=${pagination.page}&limit=${pagination.limit}`
+                    `${url}/students?page=${pagination.page}&limit=${pagination.limit}`
                 );
             }
             setStudents(response.data.students);
@@ -130,9 +132,9 @@ function App() {
         try {
             if (selectedStudent?._id) {
                 const { _id, ...updateData } = formData;
-                await axios.put(`http://localhost:3000/students/${selectedStudent._id}`, updateData)
+                await axios.put(`${url}/students/${selectedStudent._id}`, updateData)
             } else {
-                await axios.post('http://localhost:3000/students', formData)
+                await axios.post(`${url}/students`, formData)
             }
             await fetchStudents()
             setIsModalOpen(false)
@@ -184,7 +186,7 @@ function App() {
         if (result.isConfirmed) {
             setIsLoading(true)
             try {
-                await axios.delete(`http://localhost:3000/students/${id}`)
+                await axios.delete(`${url}/students/${id}`)
                 await fetchStudents()
                 Swal.fire({
                     title: 'Deleted!',

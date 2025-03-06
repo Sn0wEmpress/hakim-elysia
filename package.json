@@ -9,8 +9,8 @@
     "apps/*"
   ],
   "scripts": {
-    "dev:client": "bun run --cwd apps/client dev",
-    "dev:server": "bun run --cwd apps/server dev",
+    "client": "bun run --cwd apps/client dev",
+    "server": "bun run --cwd apps/server dev",
     "build": "bun run build --cwd apps/client && bun run build --cwd apps/server",
     "lint": "bun run lint --cwd apps/client && bun run lint --cwd apps/server"
   }

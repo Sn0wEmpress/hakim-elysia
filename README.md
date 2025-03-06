@@ -49,10 +49,10 @@ To start both the client and server in development mode:
 
 ```bash
 # Start the client (in one terminal)
-bun run dev:client
+bun run client
 
 # Start the server (in another terminal)
-bun run dev:server
+bun run server
 ```
 
 The client will be available at http://localhost:5173
